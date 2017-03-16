@@ -417,7 +417,7 @@ span.activities_column_content_detail{
 	height:565px;
 	text-align:center;
 	color:#fff;
-	background-image:url(../images/more_top_carousel_01.png);
+	background-image:url(/Github/ife_demo_7/img/more_top_carousel_01.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center center;
@@ -566,7 +566,7 @@ li.more_buttom_column_list:nth-child(1) .more_buttom_list_button{
 	border:1px solid #fff;
 }
 li.more_buttom_column_list:last-child{
-	background-image:url(../images/more_buttom_column_list_img.png);
+	background-image:url(/Github/ife_demo_7/img/more_buttom_column_list_img.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center center;
@@ -777,32 +777,32 @@ input.contact_content_input_frame{
 	background-color:#6f7278;
 	cursor:pointer;
 }
-ul.contact_conte/Github/ife_demo_7/icon{
+ul.contact_content_icons{
 	margin:37px auto 0;
 	width:219px;
 	height:25px;
 }
-li.contact_conte/Github/ife_demo_7/icon_list{
+li.contact_content_icons_list{
 	float:left;
 	margin-left:28px;
 	width:27px;
 	height:25px;
-	background-image:url(/Github/ife_demo_7/icon/sprite.png);
+	background-image:url(/Github/ife_demo_7/icon/sprite_w.png);
 	overflow:hidden;
 	cursor:pointer;
 }
-li.contact_conte/Github/ife_demo_7/icon_list:nth-child(1){
+li.contact_content_icons_list:nth-child(1){
 	margin-left:0;
-	background-position:0 -52px;
+	background-position:0 0;
 }
-li.contact_conte/Github/ife_demo_7/icon_list:nth-child(2){
-	background-position:-34px -52px;
+li.contact_content_icons_list:nth-child(2){
+	background-position:-26px 0;
 }
-li.contact_conte/Github/ife_demo_7/icon_list:nth-child(3){
-	background-position:-74px -52px;
+li.contact_content_icons_list:nth-child(3){
+	background-position:-54px 0;
 }
-li.contact_conte/Github/ife_demo_7/icon_list:nth-child(4){
-	background-position:-112px -52px;
+li.contact_content_icons_list:nth-child(4){
+	background-position:-82px 0;
 }
 /*联系我们部分结束*/
 /*页尾开始*/
