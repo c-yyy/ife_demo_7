@@ -89,7 +89,7 @@ span.login{
 	left:0px;
 	width:17px;
 	height:17px;
-	background-image:url(/Github/ife_demo_7/icon/login.png);
+	background-image:url(icon/login.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center center;
@@ -108,7 +108,7 @@ span.login{
 	width:100%;
 	height:690px;
 	min-width:1280px;
-	background-image:url(/Github/ife_demo_7/img/exhibition_bg.png);
+	background-image:url(img/exhibition_bg.png);
 	background-repeat:no-repeat;
 	background-position:center center;
 	background-size:cover;
@@ -169,7 +169,7 @@ li.introduction_content_list span:first-child{
 	left:50%;
 	width:42px;
 	height:42px;
-	background-image:url(/Github/ife_demo_7/icon/sprite.png);
+	background-image:url(icon/sprite.png);
 	background-repeat:no-repeat;
 	transform:translateX(-50%);
 	overflow:hidden;
@@ -234,7 +234,7 @@ img.transition_img{
 	width:100%;
 	height:340px;
 	text-align:center;
-	background-image:url(/Github/ife_demo_7/img/seek_bg.png);
+	background-image:url(img/seek_bg.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center center;
@@ -417,7 +417,7 @@ span.activities_column_content_detail{
 	height:565px;
 	text-align:center;
 	color:#fff;
-	background-image:url(/Github/ife_demo_7/img/more_top_carousel_01.png);
+	background-image:url(img/more_top_carousel_01.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center center;
@@ -566,7 +566,7 @@ li.more_buttom_column_list:nth-child(1) .more_buttom_list_button{
 	border:1px solid #fff;
 }
 li.more_buttom_column_list:last-child{
-	background-image:url(/Github/ife_demo_7/img/more_buttom_column_list_img.png);
+	background-image:url(img/more_buttom_column_list_img.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center center;
@@ -787,7 +787,7 @@ li.contact_content_icons_list{
 	margin-left:28px;
 	width:27px;
 	height:25px;
-	background-image:url(/Github/ife_demo_7/icon/sprite_w.png);
+	background-image:url(icon/sprite_w.png);
 	overflow:hidden;
 	cursor:pointer;
 }
